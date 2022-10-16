@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Upadhayay</h1>
 <h3 align="center">I am a passionate full stack frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img align="center" alt="Coding" width="600" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **harshu864@gmail.com**
