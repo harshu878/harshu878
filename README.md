@@ -12,6 +12,13 @@ From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 </p>
+👨‍💻 All of my projects are available at [https://harshu878.github.io/](https://harshu878.github.io/) 
+
+- 💬 Ask me about **JavaScript, Html, CSS, React, NodeJS**
+
+- 📫 How to reach me **harshu864@gmail.com**
+
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1X4JXImKhHJj_tv4Mcn1ZPy4uDV5boDwj/view?usp=sharing](https://drive.google.com/file/d/1j5xgh-Cs72nnWGCkVFi0pjG58Wmw3bkX/view?usp=sharing))
 
 
 
@@ -62,20 +69,19 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I a
 </div> 
 
 
+                                                   
+<h2 align="center"><i>My GitHub Stats</i></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshu878&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<h1 align="center">My Github Stats :</h1>
-
-
-<a href="https://github.com/harshu878-cmd/github-readme-activity-graph"><img alt="harsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshu878&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    
-
-
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshu878&show_icons=true&locale=en&theme=dark"  height="139" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu878&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
+</p>
 
 
 
-  <a href="https://github.com/harshu878?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/harshu878?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p><hr/>
+
+
 
 
 
