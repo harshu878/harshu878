@@ -12,7 +12,7 @@ From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 </p>
- <h2 align="left">🤝Let's Connect</h2>
+
 
 
 <a href="https://twitter.com/harshup06803036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
