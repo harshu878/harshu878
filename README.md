@@ -12,12 +12,20 @@ From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 </p>
- <h2 align="left">🤝Let's Connect</h2>
+<!--  <h2 align="left">🤝Let's Connect</h2>
 
 
 <a href="https://twitter.com/harshup06803036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/harsh-upadhyay-b27aa9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/harsh-upadhyay-b27aa9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
 
+<div align="center">  
+                                                         
+<h3 align="center">How to reach me: 📫</h3>
+<div align="center" display="flex">
+  <a  href="https://www.linkedin.com/in/harsh-upadhyay-b27aa9202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="mailto: harshu864@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ </a>
+</div>
 </div>
 
 
