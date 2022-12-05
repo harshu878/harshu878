@@ -12,13 +12,11 @@ From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 </p>
-👨‍💻 All of my projects are available at [https://harshu878.github.io/](https://harshu878.github.io/) 
 
 - 💬 Ask me about **JavaScript, Html, CSS, React, NodeJS**
-
 - 📫 How to reach me **harshu864@gmail.com**
-
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1X4JXImKhHJj_tv4Mcn1ZPy4uDV5boDwj/view?usp=sharing](https://drive.google.com/file/d/1j5xgh-Cs72nnWGCkVFi0pjG58Wmw3bkX/view?usp=sharing))
+- 👨‍💻 All of my projects are available at <a href = https://harshu878.github.io /> *Porfolio* </a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1j5xgh-Cs72nnWGCkVFi0pjG58Wmw3bkX/view?usp=sharing" /> *Resume* </a>
 
 
 
