@@ -78,8 +78,6 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I a
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu878&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
 </p>
 
-<a href="https://github.com/harshu878" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu878&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 
 
