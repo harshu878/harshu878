@@ -64,6 +64,7 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I a
 
 
      
+     
 </div> 
 
 
