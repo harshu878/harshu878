@@ -23,7 +23,7 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I a
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/harsh-upadhyay-b27aa9202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="https://www.linkedin.com/in/harsh-upadhayay-b27aa9202" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="mailto: harshu864@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </a>
 
